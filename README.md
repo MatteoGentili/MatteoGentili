@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently studying at CentraleSupelec in Artificial Intelligence. <br>I really like to analyze datasets.<br>I am currently learning to use GitHub in the best way.
+I am currently studying at CentraleSupelec in Artificial Intelligence.:computer: 
+<br>I really enjoy analyzing datasets!!:chart_with_upwards_trend:<br>
+I am currently learning how to use GitHub in the best way.:call_me_hand:
 
 
 ## 🌐 Socials:
